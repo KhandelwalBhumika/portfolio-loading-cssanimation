@@ -1,1 +1,3 @@
-# portfolio-loading-cssanimation
+# portfolio-loading-css-animation
+
+created loading animation using css.
